@@ -1,6 +1,4 @@
 # thermo-hygro
-Code for thermosensory/hygrosensory WTEM project
 
-R code for analysing and plotting our neurons
+R code for thermosensory/hygrosensory WTEM project
 
-Now making changes on a *separate branch*
